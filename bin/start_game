@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Add script to run program here.
+# Complete bin/setup so that after it is
+# run, bin/start_game can be used to launch
+# it.
+
+
+    echo "========Interactive Console======="
+	ruby ./game_of_dice.rb
+
+ 
