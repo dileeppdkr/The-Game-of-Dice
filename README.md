@@ -36,90 +36,90 @@ Things you may want to cover:
 	bin/start_game
 	
 #Input (contents of file):
-		Please enter Players count
-		3
-		Total Number of players 3
-		Enter points of accumulate
-		10
-		Game will end once a player reaches 10 points
-		Let's roll those die!
-		"Round 1"
-		"********************"
-		player_1 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 1
-		****** Scores ******
-		player_1 - 1
-		player_2 - 0
-		player_3 - 0
-		player_2 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 1
-		****** Scores ******
-		player_1 - 1
-		player_2 - 1
-		player_3 - 0
-		player_3 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 5
-		****** Scores ******
-		player_3 - 5
-		player_1 - 1
-		player_2 - 1
+	Please enter Players count
+	3
+	Total Number of players 3
+	Enter points of accumulate
+	10
+	Game will end once a player reaches 10 points
+	Let's roll those die!
+	"Round 1"
+	"********************"
+	player_1 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 1
+	****** Scores ******
+	player_1 - 1
+	player_2 - 0
+	player_3 - 0
+	player_2 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 1
+	****** Scores ******
+	player_1 - 1
+	player_2 - 1
+	player_3 - 0
+	player_3 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 5
+	****** Scores ******
+	player_3 - 5
+	player_1 - 1
+	player_2 - 1
 
-		"Round 2"
-		"********************"
-		player_1 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 6
-		****** Scores ******
-		player_1 - 7
-		player_3 - 5
-		player_2 - 1
-		Woohoo! player_1 You got another chance to roll the dice
-		player_1 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 3
-		****** Scores ******
-		player_1 - 10
-		player_3 - 5
-		player_2 - 1
-		player_1 completes the game with 1'st Rank
-		player_2 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 3
-		****** Scores ******
-		player_3 - 5
-		player_2 - 4
-		player_3 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 1
-		****** Scores ******
-		player_3 - 6
-		player_2 - 4
+	"Round 2"
+	"********************"
+	player_1 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 6
+	****** Scores ******
+	player_1 - 7
+	player_3 - 5
+	player_2 - 1
+	Woohoo! player_1 You got another chance to roll the dice
+	player_1 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 3
+	****** Scores ******
+	player_1 - 10
+	player_3 - 5
+	player_2 - 1
+	player_1 completes the game with 1'st Rank
+	player_2 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 3
+	****** Scores ******
+	player_3 - 5
+	player_2 - 4
+	player_3 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 1
+	****** Scores ******
+	player_3 - 6
+	player_2 - 4
 
-		"Round 3"
-		"********************"
-		player_2 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 1
-		****** Scores ******
-		player_3 - 6
-		player_2 - 5
-		player_3 its your turn (press ‘r’ to roll the dice)
-		r
-		roll result --- 6
-		****** Scores ******
-		player_3 - 12
-		player_2 - 5
-		player_3 completes the game with 2'st Rank
-		********* Final Ranking **********
-		player_1 Rank 1
-		player_3 Rank 2
-		player_2 Rank 3
-		**********************************
-		N
-		Thank you for playing.
+	"Round 3"
+	"********************"
+	player_2 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 1
+	****** Scores ******
+	player_3 - 6
+	player_2 - 5
+	player_3 its your turn (press ‘r’ to roll the dice)
+	r
+	roll result --- 6
+	****** Scores ******
+	player_3 - 12
+	player_2 - 5
+	player_3 completes the game with 2'st Rank
+	********* Final Ranking **********
+	player_1 Rank 1
+	player_3 Rank 2
+	player_2 Rank 3
+	**********************************
+	N
+	Thank you for playing.
 		
 
 
