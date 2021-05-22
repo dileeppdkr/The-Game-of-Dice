@@ -35,7 +35,9 @@ Things you may want to cover:
 ## To run the program and launch the shell (Interactive shell): 
 	bin/start_game
 	
-#Input (contents of file):
+#Input & Output:
+	
+	
 	Please enter Players count
 	3
 	Total Number of players 3
@@ -66,7 +68,7 @@ Things you may want to cover:
 	player_3 - 5
 	player_1 - 1
 	player_2 - 1
-
+	
 	"Round 2"
 	"********************"
 	player_1 its your turn (press ‘r’ to roll the dice)
